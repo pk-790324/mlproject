@@ -42,6 +42,3 @@ format=... → defines how each log line looks
 level=logging.INFO → minimum log level to capture (INFO and above)
 """
 
-logging.info("Logging system initialized.")
-logging.warning("This is just a warning message.")
-logging.error("An error occurred in the program.")
